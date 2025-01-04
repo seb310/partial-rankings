@@ -1,0 +1,24 @@
+name: partial_rankings
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  - notebook
+  - conda
+  - ipython
+  - ipykernel
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - numba
+  - graph-tool
+  - black
+  - flake8
+  - isort
+  - pip
+  - pip:
+    - python-dotenv
+    # - -e .
+    - partial-rankings
+    - ray
