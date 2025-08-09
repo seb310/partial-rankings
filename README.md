@@ -1,6 +1,6 @@
 # partial-rankings
 
-Paired comparisons are a standard method to infer a ranking between a series of players/actors. A shortcoming of many of these methods is that they lack mechanisms that allow for partial rankings --rankings where multiple nodes can have the same rank. This package contains models to infer partial rankings from pairwise comparisons as described in **PREPRINT**.
+Paired comparisons are a standard method to infer a ranking between a series of players/actors. A shortcoming of many of these methods is that they lack mechanisms that allow for partial rankings --rankings where multiple nodes can have the same rank. This package contains models to infer partial rankings from pairwise comparisons as described in [https://arxiv.org/abs/2501.02505](https://arxiv.org/abs/2501.02505).
 
 ## Project organization
 
